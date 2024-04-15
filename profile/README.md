@@ -1,7 +1,7 @@
 ## JavaScript Study
 
 ### 스터디 방식
-- 일 시 : 매주 일요일 22시
+- 일 시 : 매주 수요일 22시(4월 24일 ~ 5월 29일)
 - 진 행 : 질문 또는 퀴즈를 준비해 서로 질의응답
 - 교 재 : [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 <br>
